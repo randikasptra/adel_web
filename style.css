@@ -1,0 +1,54 @@
+body {
+    background-color: #ff8DA1;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  .hero-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  .hero-content h1 {
+    font-weight: bold;
+    font-size: 2.5rem;
+  }
+  .hero-content h1 span {
+    color: #aaa;
+    font-weight: normal;
+  }
+  .btn-custom {
+    background-color: #000000;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+  }
+  .btn-custom:hover {
+    background-color: #d62839;
+    color: white;
+  }
+  .nav-link {
+    color: white !important;
+  }
+  .hire-btn {
+    background-color: #000;
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 15px;
+  }
+  .hire-btn:hover {
+    background-color: #a8008c;
+    color: white;
+  }
+  .hero-image img {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 10px;
+  }
+  #education {
+    padding-top: 5rem;
+  }
+  #projects {
+    padding-top: 5rem;
+  }
+  
